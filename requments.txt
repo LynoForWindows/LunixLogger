@@ -1,0 +1,7 @@
+pystyle
+requests
+colorama
+pycryptodome
+auto_py_to_exe
+pyinstaller
+wmi
